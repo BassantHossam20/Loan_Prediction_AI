@@ -21,7 +21,7 @@ The project's purpose is to forecast if an applicant can or cannot take a loan b
 
 <br>
 
-> ## Directions
+> ## Directions:
     A. Data Preprocessing.
         - Data Cleansing.
             1. Handling Nulls.
