@@ -17,7 +17,7 @@ Thus, our loan predictor has been built to help loan companies in deciding wheth
 <br>
 
 > ## Project goals
-The project's purpose is to forecast if an applicant can take out a loan or not based on the available features such as Loan amount, Material status, Gender, Number of dependents, and Credit history.
+The project's purpose is to forecast if an applicant can or cannot take a loan based on the available features such as Loan amount, Material status, Gender, Number of dependents, and Credit history.
 
 <br>
 
